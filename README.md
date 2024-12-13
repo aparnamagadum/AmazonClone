@@ -14,7 +14,7 @@ This project is an Amazon Clone built using React and Redux Toolkit (RTK). It mi
 
 ## Demo
 
-Check out the live demo https://amazone-clone-li9y.vercel.app/
+Check out the live demo https://amazonclone-f2fp.onrender.com
 
 ## Technologies
 ### Frontend:
